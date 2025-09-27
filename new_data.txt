@@ -1,0 +1,6 @@
+set reminder for 5:00 p.m.|||set_reminder
+set reminder for tomorrow|||set_reminder
+add the message call for mum|||noo
+go out of|||noo
+for tomorrow college at 8:45 p.m.|||..
+hola|||escape
