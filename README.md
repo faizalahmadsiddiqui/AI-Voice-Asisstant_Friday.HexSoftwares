@@ -1,6 +1,6 @@
 # AI-Voice-Asisstant_Friday.HexSoftwares
 AI-powered virtual assistant "Friday" built with Python. Supports speech recognition, intent classification, Wikipedia Q&amp;A, playing music on YouTube, reminders saving, and continuous learning of new commands.
-# HexSoftwares_Project_Name
+# HexSoftwares_AI-Voice-Asisstant_Friday
 
 Friday is a Python-based AI-powered virtual assistant that responds to voice commands.  
 It integrates speech recognition, text-to-speech, and intent classification to perform tasks like:
