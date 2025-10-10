@@ -26,5 +26,10 @@ It integrates speech recognition, text-to-speech, and intent classification to p
 - Expands with new user-defined intents
 - Lightweight and customizable
 
+
+##note-
+- not able to upload all files so sharing a public google drive link in which there is zipped folder-
+https://drive.google.com/drive/folders/1kvT87WxtxxuzxXruK6lZP6HpGVuiFLya?usp=sharing
+
 ---
 
